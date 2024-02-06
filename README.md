@@ -1,2 +1,2 @@
-# Android_Chat_Applicatino
+# Android_Chat_Application
  Android Chat Application using Firebase
