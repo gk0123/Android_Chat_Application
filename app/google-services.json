@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293412428102",
+    "project_id": "fox-msg-a61f9",
+    "storage_bucket": "fox-msg-a61f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293412428102:android:d6655677d5f969569b6d47",
+        "android_client_info": {
+          "package_name": "com.example.foxmsg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1XhhnCKWA5uOCkREA4_LyFncZiVgtLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
